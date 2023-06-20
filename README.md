@@ -1,4 +1,6 @@
-# Hi, I'm Maciej.
+# Hi, I'm Maciej 
+<sub><a href="https://github.com/mmalecki/how-do-you-pronounce-maciej/blob/master/maciej.flac">pronouciation</a> / he/him</sub>
+
 I'm a site reliability engineer, a maker and a all-around hacker.
 
 ## Hobbies & Projects
