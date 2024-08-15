@@ -31,10 +31,6 @@ OpenSCAD and (more recently) CadQuery are my CAD tools of choice.
     <td align="right"><img width="400px" src="./the-swoon.png" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/mmalecki/resin-curing-chamber">Resin curing chamber</a>: parametric resin curing chamber using UV LED strips </td>
-    <td align="right"><img width="400px" src="./resin-curing-chamber.jpg" /></td>
-  </tr>
-  <tr>
     <td>Lighting (<a href="https://github.com/mmalecki/prusa-i3-led-strip-mount">top</a>, side), <a href="https://github.com/mmalecki/extrusion-webcam-mount">camera</a> & <a href="https://github.com/mmalecki/prusa-i3-hard-feet">feet</a> setup for my Prusa i3 MK3s+</td>
     <td align="right"><img width="400px" src="./prusa-i3.jpg" /></td>
   </tr>
