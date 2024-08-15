@@ -38,6 +38,15 @@ OpenSCAD and (more recently) CadQuery are my CAD tools of choice.
 
 </details>
 
+### Electronics
+<table border="0">
+  <tr>
+    <td><a href="https://github.com/mmalecki/rapiscope">Rapiscope</a>: rack and pinion-adjustable, rapidly 3D-printable, Raspberry Pi-based digital microscope for soldering </td>
+    <td align="right"><img width="400px" src="./rapiscope.jpg" /></td>
+  </tr>
+</table>
+
+
 ### Model rocketry
 Trying to make model rocketry more accessible and DYI:
 
@@ -53,14 +62,6 @@ Trying to make model rocketry more accessible and DYI:
   <tr>
     <td><a href="https://github.com/mmalecki/sv-entire-thing">SV Entire Thing</a>: small, fully 3D-printed model rocket hull for testing designs</td>
     <td align="right"><img width="400px" src="./sv-entire-thing.png" /></td>
-  </tr>
-</table>
-
-### Electronics
-<table border="0">
-  <tr>
-    <td><a href="https://github.com/mmalecki/rapiscope">Rapiscope</a>: rack and pinion-adjustable, rapidly 3D-printable, Raspberry Pi-based digital microscope for soldering </td>
-    <td align="right"><img width="400px" src="./rapiscope.jpg" /></td>
   </tr>
 </table>
 
