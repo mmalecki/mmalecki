@@ -6,7 +6,7 @@ I'm a site reliability engineer, a maker and a all-around hacker.
 ## Hobbies & Projects
 
 ### Programmers' CADs
-OpenSCAD and (more recently) CadQuery are my CAD tools of choice.
+CadQuery and OpenSCAD are my CAD tools of choice.
 
 <table border="0">
   <tr>
@@ -14,12 +14,28 @@ OpenSCAD and (more recently) CadQuery are my CAD tools of choice.
     <td align="right"><img width="400px" src="./catchnhole.png" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/mmalecki/next-bolt">next-bolt</a>: putting some more Computer Assist into your bolt length choices</td>
+    <td><a href="https://github.com/mmalecki/cq-queryabolt">queryabolt</a>: an ergonomic way to create nutcatches and bolt holes in CadQuery</td>
+    <td align="right"><img width="400px" src="./queryabolt.png" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mmalecki/next-bolt">next-bolt</a>: putting some OpenSCAD Computer Assist into your bolt length choices</td>
     <td><img width="400px" src="./next-bolt.gif" /></td>
   </tr>
   <tr>
     <td height="125px"><a href="https://github.com/mmalecki?tab=repositories&language=openscad">...and a ton of other OpenSCAD libraries</a></td>
     <td></td>
+  </tr>
+</table>
+
+### Electronics
+<table border="0">
+  <tr>
+    <td><a href="https://github.com/mmalecki/pcb-jigify">PCB Jigify!</a>: generate holding and testing jigs for your PCBs directly from your PCB files</td>
+    <td><img width="400px" src="./pcb-jigify.png" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mmalecki/rapiscope">Rapiscope</a>: rack and pinion-adjustable, rapidly 3D-printable, Raspberry Pi-based digital microscope for soldering</td>
+    <td align="right"><img width="400px" src="./rapiscope.jpg" /></td>
   </tr>
 </table>
 
@@ -37,15 +53,6 @@ OpenSCAD and (more recently) CadQuery are my CAD tools of choice.
 </table>
 
 </details>
-
-### Electronics
-<table border="0">
-  <tr>
-    <td><a href="https://github.com/mmalecki/rapiscope">Rapiscope</a>: rack and pinion-adjustable, rapidly 3D-printable, Raspberry Pi-based digital microscope for soldering </td>
-    <td align="right"><img width="400px" src="./rapiscope.jpg" /></td>
-  </tr>
-</table>
-
 
 ### Model rocketry
 Trying to make model rocketry more accessible and DYI:
