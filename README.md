@@ -37,6 +37,10 @@ CadQuery and OpenSCAD are my CAD tools of choice.
     <td><a href="https://github.com/mmalecki/rapiscope">Rapiscope</a>: rack and pinion-adjustable, rapidly 3D-printable, Raspberry Pi-based digital microscope for soldering</td>
     <td align="right"><img width="400px" src="./rapiscope.jpg" /></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/mmalecki/4-axis-pcb-stencil-printer">4 Axis PCB Stencil Printer with Rotational Axis</a>: a fork of a project by <a href="https://dengler-mechatronik.de/?p=790">Philipp Dengler</a>, offers a fully linear Z axis and improved rigidity, as well as backfills some technical drawings</td>
+    <td align="right"><img width="400px" src="./stencil-printer.jpg" /></td>
+  </tr>
 </table>
 
 ### 3D printers
@@ -54,8 +58,19 @@ CadQuery and OpenSCAD are my CAD tools of choice.
 
 </details>
 
+### Mechanical keyboards
+
+* [`qmk_rc`](https://github.com/mmalecki/qmk_rc) and [`qmkrcd`](https://github.com/mmalecki/qmkrcd) - remote control for your QMK-powered keyboard
+
+### SRE/build engineering/...
+
+* [Raspberry Pi pi-gen + Packer](https://blog.mmalecki.com/2022/11/16/pi-gen-and-packer.html) - building custom Raspberry Pi OS images from scratch, with Packer
+
 ### Model rocketry
-Trying to make model rocketry more accessible and DYI:
+
+<details>
+
+<summary>Trying to make model rocketry more accessible and DYI:</summary>
 
 <table border="0">
   <tr>
@@ -72,10 +87,5 @@ Trying to make model rocketry more accessible and DYI:
   </tr>
 </table>
 
-### Mechanical keyboards
+</details>
 
-* [`qmk_rc`](https://github.com/mmalecki/qmk_rc) and [`qmkrcd`](https://github.com/mmalecki/qmkrcd) - remote control for your QMK-powered keyboard
-
-### SRE/build engineering/...
-
-* [Raspberry Pi pi-gen + Packer](https://blog.mmalecki.com/2022/11/16/pi-gen-and-packer.html) - building custom Raspberry Pi OS images from scratch, with Packer
