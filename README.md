@@ -65,6 +65,7 @@ CadQuery and OpenSCAD are my CAD tools of choice.
 ### SRE/build engineering/...
 
 * [Raspberry Pi pi-gen + Packer](https://blog.mmalecki.com/2022/11/16/pi-gen-and-packer.html) - building custom Raspberry Pi OS images from scratch, with Packer
+* [Azure Auth PgBouncer](https://github.com/mmalecki/azure-auth-pgbouncer) - Easily secure Azure PostgreSQL connections with Entra ID
 
 ### Model rocketry
 
