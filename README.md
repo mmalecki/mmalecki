@@ -5,7 +5,7 @@ I'm a site reliability engineer, a maker and a all-around hacker.
 
 Check out my [🍃 contribution garden 🍃](https://mmalecki.com/contribution-garden/):
 
-![Contribution garden](garden.png)
+[![Contribution garden](garden.png)](https://mmalecki.com/contribution-garden/)
 
 ## Hobbies & Projects
 
